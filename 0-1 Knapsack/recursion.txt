@@ -1,0 +1,10 @@
+return_type function_name(input)
+{
+    base condition
+    choice diagram
+}
+
+base condition -> Think of smallest valid input
+call recursion on smaller input
+fun(n)
+then fun(n-1)

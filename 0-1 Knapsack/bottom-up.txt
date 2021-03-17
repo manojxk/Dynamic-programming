@@ -1,0 +1,3 @@
+step 1: Initialize the table
+        Base condition of recursive function is Changed into Initialization of table
+step 2: Change recursive call to iterative version so no recursive call is required
